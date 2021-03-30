@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T11:27:53.315Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="RGBXcDBt9wz3QDSLearp" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T11:47:37.022Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="kqngrJA0rz6M2-TRcf6Z" version="14.5.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="542" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="655" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="G0kBllWM4XBfNNBUBDi2-21" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="182" y="39" width="140" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="G0kBllWM4XBfNNBUBDi2-22" value="«boundary»&lt;br&gt;&lt;b&gt;Boundary: Sửa người dùng&amp;nbsp;&lt;/b&gt;" style="html=1;" parent="G0kBllWM4XBfNNBUBDi2-21" vertex="1">
+        <mxCell id="G0kBllWM4XBfNNBUBDi2-22" value="«boundary»&lt;br&gt;&lt;b&gt;Boundary: View Sửa người dùng&amp;nbsp;&lt;/b&gt;" style="html=1;" parent="G0kBllWM4XBfNNBUBDi2-21" vertex="1">
           <mxGeometry x="-28" width="203" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G0kBllWM4XBfNNBUBDi2-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="G0kBllWM4XBfNNBUBDi2-21" vertex="1">
