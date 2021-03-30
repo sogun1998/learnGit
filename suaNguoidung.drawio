@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T11:47:37.022Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="kqngrJA0rz6M2-TRcf6Z" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T12:35:50.750Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="wZS5BEUnJkziCmOa0pQM" version="14.5.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="655" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="655" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
             <mxPoint x="664.5" y="143.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PuFkgoadRzGWJXXDr4ic-3" value="4 : Lấy thông tin sản phẩm" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=1.2;exitY=0.563;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="PuFkgoadRzGWJXXDr4ic-3" value="4 : Lấy thông tin người dùng" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=1.2;exitY=0.563;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="672" y="154.03999999999996" as="sourcePoint" />
             <mxPoint x="884.5" y="154.03999999999996" as="targetPoint" />
