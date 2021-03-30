@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T11:03:57.823Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="3fyhtQzpSHWerexg5WvW" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T11:28:08.018Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vYOO8BDluh0PVE0PW9B4" version="14.5.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="786" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="G0kBllWM4XBfNNBUBDi2-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="880" y="300" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G0kBllWM4XBfNNBUBDi2-41" value="4 : Kiểm tra thông tin người dùng" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;exitX=0.95;exitY=0.547;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="G0kBllWM4XBfNNBUBDi2-37" edge="1">
+        <mxCell id="G0kBllWM4XBfNNBUBDi2-41" value="9 : Kiểm tra thông tin người dùng" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;exitX=0.95;exitY=0.547;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="G0kBllWM4XBfNNBUBDi2-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="932" y="259" as="sourcePoint" />
             <Array as="points">
