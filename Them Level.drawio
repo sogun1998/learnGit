@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T15:41:02.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="iC5rHqnLJlyfbbXWSl0F" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T15:42:35.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Kd_fBb12-sZoA_Fh1Q3y" version="14.6.13" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="655" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="G0kBllWM4XBfNNBUBDi2-34" value="5 : Gửi thông tin Trình độ giáo viên&amp;nbsp;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=-0.1;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="250.00352941176465" y="189.57999999999998" as="sourcePoint" />
+            <mxPoint x="270" y="190" as="sourcePoint" />
             <mxPoint x="654.6800000000002" y="189.57999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -88,7 +88,7 @@
         </mxCell>
         <mxCell id="DVAs7N8q5XkVekkUKqxM-3" value="3 : Hiển thị Form&amp;nbsp;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;dashed=1;" parent="1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="270" y="155" as="sourcePoint" />
+            <mxPoint x="260" y="155" as="sourcePoint" />
             <mxPoint x="76.5" y="155" as="targetPoint" />
             <Array as="points">
               <mxPoint x="140" y="155" />
